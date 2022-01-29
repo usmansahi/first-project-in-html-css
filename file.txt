@@ -1,3 +1,5 @@
  How do you see the files changed within each commit from git log?
  git log is used to see your repo commit.which person is did commit .you need to press :q for exit from git log in some case need to press git reveert {git log}
  all exercise compeleted 
+ git log --oneline
+ git log --patch
